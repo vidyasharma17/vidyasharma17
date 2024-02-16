@@ -2,7 +2,7 @@
 
 🚀 Product Manager & Tech Enthusiast
 
-As a seasoned Product Manager in the dynamic world of tech, I'm passionate about shaping the future of technology through innovation. My journey involves turning ideas into tangible solutions, navigating the realms of Python, R, AI/ML, HTML/CSS, SQL, and the artistry of data visualization
+As a seasoned Product Manager in the dynamic world of tech, I'm passionate about shaping the future of technology through innovation. My journey involves turning ideas into tangible solutions, navigating the realms of Python, R, AI/ML, HTML/CSS, SQL, and the artistry of data visualization.
 
 👩‍💻 What I Love to Do:
 
