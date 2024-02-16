@@ -1,17 +1,14 @@
-- 👋 Hey there, I'm Vidya Venugopal Sharma!
+👋 Hey there, I'm Vidya Venugopal Sharma!
 
 🚀 Product Manager & Tech Enthusiast
 
-As a dynamic product management professional, I thrive on turning ideas into tangible solutions. My journey involves navigating the realms of Python, R, AI/ML, HTML/CSS, SQL, and beyond.
+As a Data-driven product management professional, I thrive on turning ideas into tangible solutions. My journey involves navigating the realms of Python, R, AI/ML, HTML/CSS, SQL, and beyond.
 
 👩‍💻 What I Love to Do:
 
     Product Magic: Transforming concepts into successful products through strategic planning and execution.
-
     Data Alchemy: Crafting insights from the data labyrinth wielding SQL like a digital sorcerer.
-
     Code Symphony: Conducting the orchestra of Python, R, and AI/ML to create harmonious tech solutions.
-
     Web Weaver: Designing delightful user experiences with HTML/CSS to make the web a better place.
 
 🌐 Why Collaborate?
