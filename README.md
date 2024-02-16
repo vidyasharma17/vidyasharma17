@@ -7,8 +7,11 @@ As a Data-driven product management professional, I thrive on turning ideas into
 👩‍💻 What I Love to Do:
 
 Product Magic: Transforming concepts into successful products through strategic planning and execution.
+
 Data Alchemy: Crafting insights from the data labyrinth wielding SQL like a digital sorcerer.
+
 Code Symphony: Conducting the orchestra of Python, R, and AI/ML to create harmonious tech solutions.
+
 Web Weaver: Designing delightful user experiences with HTML/CSS to make the web a better place.
 
 🌐 Why Collaborate?
