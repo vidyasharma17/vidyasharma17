@@ -1,6 +1,6 @@
 👋 Hey there, I'm Vidya Venugopal Sharma!
 
-🚀 Product Manager & Tech Enthusiast
+🚀 Product Manager & Startup Enthusiast
 
 As a seasoned Product Manager, I'm passionate about shaping the future of technology through innovation. My journey involves turning ideas into tangible solutions, navigating the realms of Python, R, AI/ML, HTML/CSS, SQL, and the artistry of data visualization.
 
