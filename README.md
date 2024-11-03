@@ -1,6 +1,6 @@
 👋 Hello, I'm Vidya Venugopal Sharma.
 
-🚀 As a seasoned Product Manager, I'm passionate about shaping the future of technology through innovation. My professional journey is marked by my ability to transform creative ideas into practical solutions. My skills span Python, R, AI/ML, HTML/CSS, SQL, and data visualization.
+🚀 As a seasoned Product Manager, I'm passionate about shaping the future of technology through innovation. My professional journey is marked by my ability to transform creative ideas into practical solutions. My skills span Python, R, AI/ML, SQL, and data visualization.
 
 👩‍💻 Here's what I do:
 
