@@ -57,7 +57,8 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 ## 📜 Certifications
 - **Certified Scrum Product Owner (CSPO)**
 - **Google Project Manager Certification**
-- **Tableau Data Analyst Certification**
+- **Machine Learning with Tree Based Models**
+- **Intermediate SQL**
 
 ---
 
