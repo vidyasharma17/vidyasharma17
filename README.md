@@ -25,7 +25,7 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 ---
 
 ## 🚀 Featured Projects
-### **1.Business and Product Analytics**
+### **1. Business and Product Analytics**
 - **[Marketing Funnel Analysis - Closed Deals](https://github.com/vidyasharma17/Marketing-Funnel-Analysis-Closed-Deals-)**  
   Analyzed customer journey stages to identify factors influencing closed deals and improve conversion rates.
   
@@ -59,13 +59,6 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 - **Google Project Manager Certification**
 - **Machine Learning with Tree Based Models**
 - **Intermediate SQL**
-
----
-
-## 🏆 Achievements
-- **Best Research Paper Award** at International Sustainability Conference
-- **Won Massachusetts Life Sciences Internship Challenge**
-- **Participant at MIT Product Con**
 
 ---
 
