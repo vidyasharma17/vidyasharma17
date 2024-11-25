@@ -8,6 +8,11 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 
 ## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=transformers&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +36,7 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 ---
 
 ## 🚀 Featured Projects
+
 ### **1. Business and Product Analytics**
 - **[Marketing Funnel Analysis - Closed Deals](https://github.com/vidyasharma17/Marketing-Funnel-Analysis-Closed-Deals-)**  
   Analyzed customer journey stages to identify factors influencing closed deals and improve conversion rates.
@@ -39,7 +45,14 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
   Examined key user engagement metrics to enhance product adoption and retention for mobile applications.
 
 ---
+
 ### **2. Machine Learning and Predictive Analytics**
+- **[Predicting Medical Expenses Using Machine Learning](https://github.com/vidyasharma17/Predicting-Medical-Expenses-Using-Machine-Learning)**  
+  Analyzed healthcare datasets to predict medical expenses based on patient demographics and conditions.
+
+- **[Medical Expense Predictor](https://github.com/vidyasharma17/Medical-Expense-Predictor)**  
+  Built a predictive model to estimate medical costs, assisting insurers in decision-making processes.
+
 - **[Used Car Price Prediction](https://github.com/vidyasharma17/Used-Car-Price-Prediction-using-Logisitic-Regression)**  
   Predicted used car prices based on key factors using logistic regression.
 
@@ -48,13 +61,28 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 
 ---
 
-### **3. Entertainment and Media Analytics**
+### **3. AI and Chatbots**
+- **[AI-Powered Intent Classification and Chatbot Development](https://github.com/vidyasharma17/AI-Powered-Intent-Classification-and-Chatbot-Development)**  
+  Developed an intelligent chatbot leveraging NLP for intent classification and conversational AI.
+
+- **[Banking Chatbot](https://github.com/vidyasharma17/Banking-Chatbot)**  
+  Designed a banking chatbot to automate common queries and improve customer service experiences.
+
+---
+
+### **4. Gamified Solutions**
+- **[Gamified ESG Investing Tool](https://github.com/vidyasharma17/Gamified_ESG_Investing_Tool)**  
+  Created a gamified platform to engage users in sustainable investing through interactive challenges.
+
+---
+
+### **5. Entertainment and Media Analytics**
 - **[Spotify Song Popularity Analysis](https://github.com/vidyasharma17/Analysis-of-key-factors-influencing-song-popularity-and-artist-rankings-of-Spotify-)**  
   Explored factors influencing song popularity and artist rankings on Spotify.
 
 ---
 
-### **4. Incident Management**
+### **6. Incident Management**
 - **[Incident Response Tool](https://github.com/vidyasharma17/Incidence_Response_Tool)**  
   Streamlined issue resolution, automated tracking, and enhanced response times.
 
