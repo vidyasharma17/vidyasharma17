@@ -90,7 +90,8 @@ With over 6 years of experience in Product Management, Data Analytics, and Produ
 
 ## 📜 Certifications
 - **Certified Scrum Product Owner (CSPO)**
-- **Google Project Manager Certification**
+- **ServiceNow - Practitioner Technical Project Manager**
+- **Oracle Cloud Infrastructure Certified AI Foundations Associate**
 - **Machine Learning with Tree Based Models**
 - **Intermediate SQL**
 
